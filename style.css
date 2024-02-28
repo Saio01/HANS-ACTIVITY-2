@@ -1,0 +1,86 @@
+* {margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: url('https://images6.alphacoders.com/134/1344406.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+.h11 {
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    font-family: Unispace;
+    font-weight: 100;
+background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,0.41780462184873945) 0%, rgba(0,212,255,1) 100%);
+    width: 80%; height: auto;
+    margin: 20px auto;
+
+}
+.h11 {
+    border-top: 2px;
+    border-left: 2px;
+    box-sizing: border-box;
+    border: 4px solid;
+
+    
+}
+
+.btn { 
+    font-family: "Mongolian Baiti";
+    font-size: 20px; 
+    font-weight: bold;
+    background:#CB4335;
+    padding: 10px;
+    border-radius: 15px;
+    color:#ECF0F1 ;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+     align-content: center;
+    align-items: center;
+    margin-left: 90%;
+
+}
+.btn:hover{
+    background-color:#641E16 ;
+}
+
+.container {
+    text-align: center;
+    
+}
+.text {
+ 
+    font-size: 35;
+    font-family: impact;
+    margin-top: 13%;
+    border: 3px solid;
+    padding: 30px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: White;
+    box-shadow: 5px 5px 5px 5px;
+    
+}
+.text a:link {
+    color: red;
+}
+
+.text a:visited{
+    color: green;
+}
+
+.text a:hover {
+    color: hotpink;
+}
+
+.text a:active {
+    color: blue;
+}
